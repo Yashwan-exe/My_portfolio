@@ -2,7 +2,7 @@
   "name": "my-portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yashwan-exe.github.io/my-portfolio-app",
+  "homepage": "https://github.com/Yashwan-exe/Yashwanthan_portfolio.git",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
