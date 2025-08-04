@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/my-portfolio-app/static/js/main.d5800459.js",
-    "index.html": "/my-portfolio-app/index.html",
-    "main.d5800459.js.map": "/my-portfolio-app/static/js/main.d5800459.js.map"
+    "main.js": "/Yashwan-exe/Yashwanthan_portfolio.git/static/js/main.6f5c452e.js",
+    "index.html": "/Yashwan-exe/Yashwanthan_portfolio.git/index.html",
+    "main.6f5c452e.js.map": "/Yashwan-exe/Yashwanthan_portfolio.git/static/js/main.6f5c452e.js.map"
   },
   "entrypoints": [
-    "static/js/main.d5800459.js"
+    "static/js/main.6f5c452e.js"
   ]
 }
